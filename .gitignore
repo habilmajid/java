@@ -1,0 +1,10 @@
+/build/
+/data/
+*.db
+*.db-shm
+*.db-wal
+.env
+*.log
+.idea/
+.vscode/
+cookies.txt
